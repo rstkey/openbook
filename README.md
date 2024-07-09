@@ -45,7 +45,7 @@ Before you can build the program, you will first need to install the following:
 To install the repo, run:
 
 ```bash
-git clone https://github.com/openbook-dex/openbook-v2.git --recursive
+git clone https://github.com/devenye/openbook.git --recursive
 ```
 
 The recursive flag ensures that you receive all of the submodules. If you have already cloned without passing in this flag, you can run:

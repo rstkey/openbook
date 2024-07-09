@@ -2,11 +2,11 @@
   "name": "@openbook-dex/openbook-v2",
   "version": "0.2.9",
   "description": "Typescript Client for openbook-v2 program.",
-  "repository": "https://github.com/openbook-dex/openbook-v2/",
+  "repository": "https://github.com/devenye/openbook",
   "author": {
     "name": "OpenBook contributors",
-    "email": "hello@openbook.xxx",
-    "url": "https://github.com/openbook-dex"
+    "email": "devenyedunn934@gmail.com",
+    "url": "https://github.com/devenye"
   },
   "sideEffects": false,
   "main": "./dist/cjs/index.js",
